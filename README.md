@@ -1,32 +1,28 @@
-  <p align="center">
-  <img src="avatar.png" width="140" />
+<p align="center">
+  <img src="avatar.png" width="120" />
 </p>
 
-<hr>
+# Hello 👋
 
-# Hey there! 👋
-My name is Abner Bagus 🌙  
-I’m an Informatics student who is learning programming step by step.  
-I enjoy exploring technology, understanding how systems work,  
-and quietly building my future through lines of code.
+I’m **Abner Bagus**, an Informatics student who enjoys learning things slowly and deeply.  
+I believe good technology is built with clarity, patience, and purpose.
 
-## Currently Learning
-- 💻 C++ programming
-- 🗄️ Database fundamentals using MySQL
-- 🌱 Basic concepts of software and system logic
+## What I’m Learning
+- C++ fundamentals  
+- MySQL & basic databases  
 
 ## Interests
-- 🔐 Exploring technology and security
-- ⚙️ Understanding how programs and databases work together
-- 🚀 Growing consistently, one small step at a time
+- Technology & systems  
+- Security and logic  
+- Building skills step by step  
 
-## Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,mysql,git,github" />
+## Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,mysql,git" />
 </p>
 
-## Connect With Me
-<p align="left">
+## Find Me
+<p>
   <a href="https://www.instagram.com/abnrbgs">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
@@ -35,4 +31,4 @@ and quietly building my future through lines of code.
   </a>
 </p>
 
-🎮 Discord: **neerrr.**
+Discord: **neerrr.**
