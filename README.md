@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="avatar.png" width="640" />
+<p 
+  <img src="avatar.png" width="100%" />
 </p>
 
 # Hello 👋
