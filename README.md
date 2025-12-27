@@ -31,4 +31,4 @@ I believe good technology is built with clarity, patience, and purpose.
   </a>
 </p>
 
-Discord: **neerrr.**
+🎮 Discord: **neerrr.**
