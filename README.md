@@ -1,4 +1,4 @@
-<p 
+<p align="center">
   <img src="avatar.png" width="100%" />
 </p>
 
