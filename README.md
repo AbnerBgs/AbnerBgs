@@ -9,7 +9,8 @@ I believe good technology is built with clarity, patience, and purpose.
 
 ## What I’m Learning
 - C++ fundamentals  
-- MySQL & basic databases  
+- MySQL & basic databases
+- Basic Web Dev (FrontEnd & BackEnd)
 
 ## Interests
 - Technology & systems  
